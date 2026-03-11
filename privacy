@@ -1,7 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Privacy Policy – Trend Research Lab</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<style>
+body {
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: auto;
+    padding: 40px;
+    line-height: 1.6;
+}
+
+h1 {
+    color: #222;
+}
+</style>
+
+</head>
+
+<body>
+
 <h1>Privacy Policy</h1>
 
 <p>
-This project collects publicly available trend data
-for research purposes only.
-No personal data is stored or processed.
+This Privacy Policy explains how Trend Research Lab collects, uses, and
+handles information when interacting with third-party APIs and publicly
+available trend data sources.
 </p>
+
+<h2>Information We Collect</h2>
+
+<p>
+This project does not collect personal data from users.
+</p>
+
+<p>
+The application only accesses aggregated trend data from third-party
+platform APIs, such as trending search topics or category-level insights.
+These datasets do not contain personally identifiable information.
+</p>
+
+<h2>How the Information Is Used</h2>
+
+<p>
+The collected trend data is used exclusively for research and analytical
+purposes, including:
+</p>
+
+<ul>
+<li>Analyzing growth patterns in trending topics</li>
+<li>Identifying emerging consumer interests</li>
+<li>Testing data science models for trend detection</li>
+</ul>
+
+<p>
+The data is used internally for experimentation and research only.
+</p>
+
+<h2>Sharing of Information</h2>
+
+<p>
+Trend Research Lab does not sell, distribute, or share collected data with
+third parties.
+</p>
+
+<p>
+All data processing is limited to internal research purposes.
+</p>
+
+<h2>Data Storage</h2>
+
+<p>
+Aggregated trend data retrieved from APIs may be temporarily stored for
+analysis and time-series research. No personal user information is stored.
+</p>
+
+<h2>Third-Party Services</h2>
+
+<p>
+This project may interact with APIs provided by external platforms, such as
+Pinterest, for the purpose of retrieving aggregated trend information.
+</p>
+
+<p>
+Use of these services is subject to the respective platform's policies and
+terms of service.
+</p>
+
+<h2>Contact</h2>
+
+<p>
+If you have questions about this Privacy Policy or the data used in this
+project, you may contact:
+</p>
+
+<p>
+cocktailpoolside@gmail.com
+</p>
+
+</body>
+</html>
